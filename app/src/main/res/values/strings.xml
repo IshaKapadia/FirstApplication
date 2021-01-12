@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="send_message">Send Now</string>
+    <string name="Receive_message">Receive Now</string>
+    <string name="Delete_message">Delete Now</string>
+
+</resources>
